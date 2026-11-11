@@ -1,2 +1,2 @@
 # Addition Project
-This project uses Java.
+This project uses Java and Python.
