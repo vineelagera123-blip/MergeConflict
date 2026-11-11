@@ -1,2 +1,2 @@
 # Addition Project
-This is my original project.
+This project uses Python.
